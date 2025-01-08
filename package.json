@@ -1,0 +1,10 @@
+{
+  "name": "onedrive-cli",
+  "version": "0.1.0",
+  "description": "Command line interface and MCP for OneDrive",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
