@@ -10,3 +10,4 @@ node_modules/
 coverage/
 .cache/
 tmp/
+.pytest_cache/
