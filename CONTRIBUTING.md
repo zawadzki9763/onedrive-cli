@@ -22,3 +22,4 @@ Notes and usage details for onedrive-cli.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- add a note about the defaults
