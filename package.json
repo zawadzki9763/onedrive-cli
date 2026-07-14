@@ -1,6 +1,6 @@
 {
   "name": "onedrive-cli",
-  "version": "0.1.36",
+  "version": "0.1.37",
   "description": "Command line interface and MCP for OneDrive",
   "main": "src/index.js",
   "scripts": {
